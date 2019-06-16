@@ -1,1 +1,1 @@
-# Classification-of-Defective-PV-Modules-in-Electroluminescence-Imagery
+# Classification of Defective PV Modules in Electroluminescence Imagery
